@@ -10,13 +10,14 @@ This tool is used to:
 
 ## Language, tools
 
-* Python
+* Python 3.11.x
 * VS Code
 
 ## Is python installed - windows?
 
 * Run the command: `python --version`
 * What's the output?
+* it should be at least: `Python 3.11.x`
 * If python is installed, where: `where python`
 
 ## Setup Steps
