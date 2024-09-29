@@ -40,7 +40,7 @@ This tool is used to:
 * This produces split pdf files in `data-temp` directory
 * Windows - Update `pdf-combine.bat` - to have correct path as per your machine
 * Windows - run: `pdf-combine.bat`
-* This produces split pdf files in `data-out` directory
+* This combines the individual pdf files in `data-temp` and produces one pdf in `data-out` directory as per the specificatin in `git-python.xlsx` file and the command
 
 ## VS Code setup
 
