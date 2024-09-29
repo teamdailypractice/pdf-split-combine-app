@@ -37,6 +37,10 @@ This tool is used to:
 * Be in the script directory inside the project: `cd scripts`
 * Windows - Update `pdf-split.bat` - to have correct path as per your machine
 * Windows - run: `pdf-split.bat`
+* This produces split pdf files in `data-temp` directory
+* Windows - Update `pdf-combine.bat` - to have correct path as per your machine
+* Windows - run: `pdf-combine.bat`
+* This produces split pdf files in `data-out` directory
 
 ## VS Code setup
 
